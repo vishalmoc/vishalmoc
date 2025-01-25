@@ -1,16 +1,18 @@
-## Hi there 👋 This is my readme.
+🚀 MBA in Data Science | 📊 Turning Data into Business Insights
+💻 Python | Power BI | Machine Learning | SQL | Data Visualization
 
-<!--
-**vishalmoc/vishalmoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm passionate about bridging the gap between business strategy and data-driven decision-making. With a strong foundation in data science tools and techniques, I specialize in:
 
-Here are some ideas to get you started:
+📈 Developing predictive models to solve real-world business challenges
+🛠️ Crafting compelling dashboards and visualizations to tell impactful stories
+🤖 Applying machine learning to uncover trends and optimize performance
+🌟 My Tech Stack: Python | Pandas | NumPy | Matplotlib | Seaborn | SQL | Power BI | Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What Drives Me: I thrive at the intersection of business acumen and data science, helping organizations make smarter, data-backed decisions.
+
+🛠️ Explore my repositories to see projects on:
+
+Customer Churn Prediction
+Sales Forecasting
+Interactive Business Dashboards
+Marketing Analytics
