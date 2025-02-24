@@ -1,27 +1,27 @@
-</a>
 <h1 align="center">Hi 👋, I'm Vishal Singh Mourya</h1>
-<h3 align="center">A driven and confident data science student with a solid foundation in computer science, characterized by a strong sense of self-assurance, capability, and unwavering commitment to excellence in every endeavor</h3>
+<h3 align="center">A driven and confident Data Science student with a strong foundation in analytics, committed to transforming raw data into meaningful business insights.</h3>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Data Science" width="500">
+</p>
 
-  <img align="right" alt="Data Scientist" width="400" 
+## 🚀 About Me  
+- 🎓 **MBA in Data Science** | 📊 **Turning Data into Business Insights**  
+- 💡 Passionate about data-driven decision-making, predictive analytics, and business intelligence.  
+- 🏆 Focused on solving real-world challenges using **Python, Machine Learning, and Data Visualization**.  
 
-<p align="left">
-  
-🚀 MBA in Data Science | 📊 Turning Data into Business Insights
-💻 Python | Power BI | Machine Learning | SQL | Data Visualization
+## 🔧 Skills & Tech Stack  
+- **Programming:** R, Python, SQL  
+- **Data Analysis:** dplyr, ggplot2, Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning:** Random Forest, Decision Trees, Scikit-learn, Regression Models, Predictive Analytics  
+- **Business Intelligence:** Power BI, Data Storytelling  
 
-👋 Hi there! I'm passionate about bridging the gap between business strategy and data-driven decision-making. With a strong foundation in data science tools and techniques, I specialize in:
+## 📌 My Projects  
+🔹 **House Price Prediction** – Analyzing key factors influencing real estate prices using Machine Learning.  
+🔹 **Alcohol Consumption & Violence Against Women** – Investigating statistical correlations and societal impacts.  
+🔹 **Interactive Dashboards** – Creating business intelligence dashboards with Power BI for data-driven insights.  
+🔹 **Marketing Analytics** – Leveraging data to optimize marketing campaigns and customer segmentation.  
 
-📈 Developing predictive models to solve real-world business challenges
-🛠️ Crafting compelling dashboards and visualizations to tell impactful stories
-🤖 Applying machine learning to uncover trends and optimize performance
-🌟 My Tech Stack: Python | Pandas | NumPy | Matplotlib | Seaborn | SQL | Power BI | Scikit-learn
-
-💡 What Drives Me: I thrive at the intersection of business acumen and data science, helping organizations make smarter, data-backed decisions.
-
-🛠️ Explore my repositories to see projects on:
-
-Customer Churn Prediction
-Sales Forecasting
-Interactive Business Dashboards
-Marketing Analytics
+📫 **Let's Connect:**  
+[![LinkedIn](www.linkedin.com/in/vishal-singh-mourya-8b40a0153)](your-linkedin-url)  
+[![GitHub]([https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github](https://github.com/dashboard))](your-github-url)  
